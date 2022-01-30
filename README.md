@@ -38,6 +38,11 @@ To test that this application is functioning properly, type in a note and click 
 Allows a user to write notes that will be saved even if the window is closed.
 
 ## Screenshots and Link
+
+![image](https://user-images.githubusercontent.com/92492572/151683368-fc86c90c-dbb2-4b2d-ba66-649d35c2da90.png)
+![image](https://user-images.githubusercontent.com/92492572/151683371-41c13167-01e3-4caf-96e9-3c757d392b51.png)
+
+Link: https://note-taker-hw-11-nccooper.herokuapp.com/
                 
 ## Questions
                 
